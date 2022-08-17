@@ -1,0 +1,2 @@
+export const CREATE_PLACE = "CREATE_PLACE";
+export const CLEAR_ALL_PLACES = "CLEAR_ALL_PLACES";

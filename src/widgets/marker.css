@@ -1,0 +1,14 @@
+.marker {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 22px;
+    height: 40px;
+    background-image: url("https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png");
+    user-select: none;
+    transform: translate(-50%, -50%);
+
+    &:hover {
+        z-index: 1;
+    }
+}
